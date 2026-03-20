@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- PDF exports -->
+    <external-files-path name="pdf_exports" path="." />
+
+    <!-- Avatar photos taken with camera (cache dir) -->
+    <cache-path name="avatar_cache" path="." />
+
+    <!-- Avatar photos copied from gallery (files dir) -->
+    <files-path name="avatar_files" path="." />
+</paths>
